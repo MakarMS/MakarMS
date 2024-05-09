@@ -21,10 +21,5 @@ If you have any questions or would like to discuss potential projects, please do
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=makarms&theme=gruvbox&show_icons=true&hide_border=true&count_private=true">
-</p>
-
-
-<p align="center">
-
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=makarms&theme=gruvbox&hide_border=true">
 </p>
