@@ -1,4 +1,6 @@
 # Hey!
+![](https://komarev.com/ghpvc/?username=MakarMS&color=orange)
+
 **My name is Makar. I'm a 21-year-old backend developer with expertise in PHP, Python, and Java.\
 I'm also proficient in frontend development using Vue.js.**
 
