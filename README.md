@@ -20,6 +20,5 @@ If you find my work interesting, I'd be happy to receive feedback or connect wit
 If you have any questions or would like to discuss potential projects, please don't hesitate to contact me.**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=makarms&theme=gruvbox&show_icons=true&hide_border=true&count_private=true">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=makarms&theme=gruvbox&hide_border=true">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=makarms&theme=dark&hide_border=true">
 </p>
