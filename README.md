@@ -1,8 +1,21 @@
 # Hey!
-![](https://komarev.com/ghpvc/?username=MakarMS&color=orange)  
-My name is Makar, I'm 21, and I work in backend development using PHP, Python and Java, as well as frontend development with Vue.js.
+**My name is Makar. I'm a 21-year-old backend developer with expertise in PHP, Python, and Java.\
+I'm also proficient in frontend development using Vue.js.**
 
-Currently, I hold a position as a middle PHP developer. If you find something interesting in my repositories, I would be glad to receive feedback.
+**Currently, I'm working as a middle PHP developer.**
+
+**I'm always looking for new challenges and opportunities to grow my skills.\
+If you find my work interesting, I'd be happy to receive feedback or connect with you.**
+
+**Here are some of the things I'm passionate about:**
+
+* Building robust and scalable backend systems
+* Creating user-friendly and intuitive frontend interfaces
+* Staying up-to-date with the latest technologies
+* Collaborating with talented developers
+
+**I'm always eager to learn new things and take on new challenges.\
+If you have any questions or would like to discuss potential projects, please don't hesitate to contact me.**
 
 <p align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=MakarMS&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D">
