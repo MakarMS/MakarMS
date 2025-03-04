@@ -3,7 +3,7 @@
 
 **My Telegram channel:** https://t.me/code_thoughts
 
-**My name is Makar. I'm a 21-year-old backend developer with expertise in PHP, Python, and Java.\
+**My name is Makar. I'm a 22-year-old backend developer with expertise in PHP, Python, and Java.\
 I'm also proficient in frontend development using Vue.js.**
 
 **Currently, I'm working as a middle PHP developer.**
